@@ -1,11 +1,7 @@
 // Compile with: cl/clr cplusplus.cpp
 
-#using <mscorlib.dll>
-#using <System.dll>
-#using <System.Windows.Forms.dll>
-
 using namespace System;
-using namespace System::Windows::Forms;
+//using namespace System::Windows::Forms;
 using namespace System::Reflection;
 
 [assembly: AssemblyTitle("PDFLibNet")];

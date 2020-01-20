@@ -6,6 +6,7 @@ using namespace System;
 using namespace System::Drawing;
 using namespace System::Runtime::InteropServices;
 
+
 namespace PDFLibNet
 {
 	public delegate void WriteToStreamHandler(wchar_t *text, int len);
